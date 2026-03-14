@@ -11,8 +11,6 @@ if is_residential ==True:
 else:
     type_of_build = "Aдминистративное"
 
-
-construction_year = 2003
 print("=== Digital Passport of the Object ===")
 print(f"student: {student_name}")
 print(f"Group: {group_number}")
