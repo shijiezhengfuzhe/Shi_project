@@ -1,0 +1,11 @@
+ISO-10303-21;
+HEADER;
+FILE_DESCRIPTION(('ViewDefinition [CoordinationView]'),'2;1');
+FILE_NAME('','2026-05-09T11:58:49',(''),(''),'IfcOpenShell 0.8.5-1c5b825','IfcOpenShell 0.8.5-1c5b825','');
+FILE_SCHEMA(('IFC2X3'));
+ENDSEC;
+DATA;
+#1=IFCDOOR('3Q87Kkn4X0hh69O_upt9yD',$,'M_Single-Flush:_900x2000mm:350702',$,$,$,$,$,2000.,900.00000000000102);
+#2=IFCDOOR('3Q87Kkn4X0hh69O_uptAY7',$,'M_Single-Flush:_900x2000mm:355940',$,$,$,$,$,2000.,900.00000000000205);
+ENDSEC;
+END-ISO-10303-21;
